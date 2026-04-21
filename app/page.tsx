@@ -61,6 +61,24 @@ const groups = [
       },
     ],
   },
+    {
+    id: "Others",
+    title: "Other Materials",
+    materials: [
+      {
+        paper: "Concept Book 2026",
+        subject: "Concept Book 2026",
+        file: "/pdfs/Concept_Book_2026.pdf",
+      },
+      {
+        paper: "Work Book 2026",
+        subject: "Work Book 2026",
+        file: "/pdfs/Work_Book_2026.pdf",
+      },
+
+
+    ],
+  },
 ];
 
 export default function Home() {
@@ -134,12 +152,7 @@ export default function Home() {
           ))}
         </div>
 
-        <div className="mt-6 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3">
-          <p className="text-[11px] leading-5 text-amber-900">
-            Make sure you have permission before publishing copyrighted PDFs for
-            public download.
-          </p>
-        </div>
+
       </div>
     </main>
   );
