@@ -75,6 +75,26 @@ const groups = [
         subject: "Work Book 2026",
         file: "/pdfs/Work_Book_2026.pdf",
       },
+      {
+        paper: "CMA HW MCQ PART 1",
+        subject: "CMA HW MCQ PART 1",
+        file: "/pdfs/MCQs_CMA_HW_Part1.pdf",
+      },
+      {
+        paper: "CMA HW MCQ PART 2",
+        subject: "CMA HW MCQ PART 2",
+        file: "/pdfs/MCQs_CMA_HW_Part2.pdf",    
+      },
+      {
+        paper: "CMA HW MCQ PART 3",
+        subject: "CMA HW MCQ PART 3",
+        file: "/pdfs/MCQs_CMA_HW_Part3.pdf",
+      },
+      {
+        paper: "CMA HW MCQ PART 4",
+        subject: "CMA HW MCQ PART 4",
+        file: "/pdfs/MCQs_CMA_HW_Part4.pdf",
+      }
 
 
     ],
